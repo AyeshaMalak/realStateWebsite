@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.clip-diagonal {
+  clip-path: polygon(0 5%, 100% 0%, 100% 95%, 0% 100%);
+}
+/* index.css */
+@import url("https://unpkg.com/leaflet/dist/leaflet.css");
