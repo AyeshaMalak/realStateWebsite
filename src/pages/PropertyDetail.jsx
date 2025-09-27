@@ -210,4 +210,4 @@ const PropertyDetail = () => {
 };
 
 export default PropertyDetail;
-
+              
